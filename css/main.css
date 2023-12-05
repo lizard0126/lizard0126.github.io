@@ -2702,16 +2702,3 @@ body {
 .footer {
   color: #222;
 }
-.back-to-top {
-  background: url("/images/black_background.png");
-  margin: 16px;
-}
-.back-to-top span {
-  color: #fff;
-}
-.back-to-top.back-to-top-on {
-  opacity: 1;
-}
-.back-to-top.back-to-top-on:hover {
-  opacity: 0.75;
-}
