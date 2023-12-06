@@ -67,18 +67,6 @@
       </tags>
   </entry>
   <entry>
-    <title>那些年我写过的漫研</title>
-    <url>/2023/12/05/acgn-research/</url>
-    <content><![CDATA[<p>准备更新一个系列，<strong>那些年我写过的漫研</strong>，主要是大学期间在动漫社投过的稿件，包括一些动画漫画的推荐杂谈，或者是一些动画电影的观看感受。</p>
-<hr>
-<h1 id="漫画"><a href="#漫画" class="headerlink" title="漫画"></a>漫画</h1><p><a href="%5CBlog%5Csource_posts%5C2021-11-18-%E4%BA%8C%E7%82%B9%E4%BA%94%E6%AC%A1%E5%85%83%E7%9A%84%E8%AF%B1%E6%83%91.md" title="二点五次元的诱惑">二点五次元的诱惑</a></p>
-<p><a href="%5CBlog%5Csource_posts%5C2021-12-25-%E5%AE%BF%E5%91%BD%E5%9B%9E%E5%93%8D" title="宿命回响">宿命回响</a></p>
-]]></content>
-      <categories>
-        <category>漫研</category>
-      </categories>
-  </entry>
-  <entry>
     <title>从零开始搭建的个人博客</title>
     <url>/2023/12/04/my-first-blog/</url>
     <content><![CDATA[<p>起因是我有在做本地部署的.js机器人，做了一些社交软件平台的适配。苦于本地部署没法常驻，便购入了云服务器（便宜货。。。）</p>
@@ -96,5 +84,17 @@
       <tags>
         <tag>blog</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>那些年我写过的漫研</title>
+    <url>/2023/12/05/%E6%BC%AB%E7%A0%94/</url>
+    <content><![CDATA[<p>准备更新一个系列，<strong>那些年我写过的漫研</strong>，主要是大学期间在动漫社投过的稿件，包括一些动画漫画的推荐杂谈，或者是一些动画电影的观看感受。</p>
+<hr>
+<h1 id="漫画"><a href="#漫画" class="headerlink" title="漫画"></a>漫画</h1><p><a href="_post%5C2021-11-18-%E4%BA%8C%E7%82%B9%E4%BA%94%E6%AC%A1%E5%85%83%E7%9A%84%E8%AF%B1%E6%83%91.md" title="2.5次元的诱惑">2021-11-18-二点五次元的诱惑</a></p>
+<p><a href="_post%5C2021-12-25-%E5%AE%BF%E5%91%BD%E5%9B%9E%E5%93%8D.md" title="宿命回响">2021-12-25-宿命回响</a></p>
+]]></content>
+      <categories>
+        <category>漫研</category>
+      </categories>
   </entry>
 </search>
