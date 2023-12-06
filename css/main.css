@@ -2708,9 +2708,6 @@ body {
 .content-wrap {
   opacity: 0.9;
 }
-.main-inner {
-  opacity: 0.9;
-}
 .sidebar-inner {
   background: rgba(255,255,255,0.9) none repeat scroll !important;
 }
