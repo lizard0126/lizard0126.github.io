@@ -12,16 +12,22 @@
 <p>由于我已经购入了私人域名，需要对域名进行解析，绑定博客的github仓库地址（ipv4地址可以用cmd来ping仓库地址得到，与仓库地址本身共两条解析记录），然后就是漫长而痛苦的修改框架-保存资源-编译-出bug-读日志-改代码-编译-出新bug的无限循环。</p>
 <p>对于完全不懂js的我来说，会用命令行已经谢天谢地了。后面可能会更新我对框架的优化，大概率是抄别人的作业，也可能直接发在博客里，更可能直接咕咕咕，这比玩机器人累多了（幸好我给机器人加了gpt，代码问题可以解决）</p>
 ]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
       <tags>
         <tag>blog</tag>
       </tags>
   </entry>
   <entry>
-    <title>making-blog</title>
+    <title>那些年我写过的漫研</title>
     <url>/2023/12/05/making-blog/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
       <tags>
-        <tag>blog</tag>
+        <tag>漫画</tag>
       </tags>
   </entry>
 </search>
