@@ -2698,13 +2698,6 @@ body {
   background-attachment: fixed;
   background-position: 50% 50%;
 }
-.post-block {
-  margin-top: 60px;
-  margin-bottom: 60px;
-  padding: 25px;
-  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
-  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
-}
 .content-wrap {
   opacity: 0.9;
 }
