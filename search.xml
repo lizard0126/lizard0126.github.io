@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>从零开始搭建的个人博客</title>
-    <url>/my-first-blog/</url>
-    <content><![CDATA[<p>起因是我有在做本地部署的.js机器人，做了一些社交软件平台的适配。苦于本地部署没法常驻，便购入了云服务器（便宜货。。。）</p>
-<p>然而服务器机能在Windows server的系统镜像下已经不够部署运行机器人加QQ，再加上本地的数据库也不太方便转移到云端，遂放弃机器人，转而搭建个人博客&#x2F;个人论坛</p>
-<span id="more"></span>
-
-<h1 id="环境的准备"><a href="#环境的准备" class="headerlink" title="环境的准备"></a>环境的准备</h1><p>首先注册好github并熟悉基本的操作，很好上手，无非就是新建仓库，找到仓库地址之类，经常使用开源资源的朋友本当上手</p>
-<p>其次是在云服安装git，用来绑定github的仓库到本地，创建文件并上传至仓库，其实也可以直接在github编译，但我不会（雾）</p>
-<p>然后就是node.js和hexo的云服部署。前者是服务器端的JavaScript运行环境，后者是博客搭建框架，可以很方便地搭建静态网页。但我对markdown这样的标记语言不是很熟悉，还需要学习</p>
-<h1 id="关于域名的选购"><a href="#关于域名的选购" class="headerlink" title="关于域名的选购"></a>关于域名的选购</h1><p>推荐后缀.top，很便宜，一年只要十块。域名不是必须，不影响博客的云端部署，可以通过ipv4地址或者github地址访问</p>
-<p>由于我已经购入了私人域名，需要对域名进行解析，绑定博客的github仓库地址（ipv4地址可以用cmd来ping仓库地址得到，与仓库地址本身共两条解析记录），然后就是漫长而痛苦的修改框架-保存资源-编译-出bug-读日志-改代码-编译-出新bug的无限循环。</p>
-<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1><p>对于完全不懂js的我来说，会用命令行已经谢天谢地了。后面可能会更新我对框架的优化，大概率是抄别人的作业，也可能直接发在博客里，更可能直接咕咕咕，这比玩机器人累多了（幸好我给机器人加了gpt，代码问题可以解决）</p>
-]]></content>
-      <categories>
-        <category>blog</category>
-      </categories>
-      <tags>
-        <tag>blog</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2.5次元的诱惑</title>
     <url>/%E4%BA%8C%E7%82%B9%E4%BA%94%E6%AC%A1%E5%85%83%E7%9A%84%E8%AF%B1%E6%83%91/</url>
     <content><![CDATA[<p>我对现实女子完全没有兴趣！</p>
@@ -57,6 +36,27 @@
       </categories>
       <tags>
         <tag>漫画</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>从零开始搭建的个人博客</title>
+    <url>/my-first-blog/</url>
+    <content><![CDATA[<p>起因是我有在做本地部署的.js机器人，做了一些社交软件平台的适配。苦于本地部署没法常驻，便购入了云服务器（便宜货。。。）</p>
+<p>然而服务器机能在Windows server的系统镜像下已经不够部署运行机器人加QQ，再加上本地的数据库也不太方便转移到云端，遂放弃机器人，转而搭建个人博客&#x2F;个人论坛</p>
+<span id="more"></span>
+
+<h1 id="环境的准备"><a href="#环境的准备" class="headerlink" title="环境的准备"></a>环境的准备</h1><p>首先注册好github并熟悉基本的操作，很好上手，无非就是新建仓库，找到仓库地址之类，经常使用开源资源的朋友本当上手</p>
+<p>其次是在云服安装git，用来绑定github的仓库到本地，创建文件并上传至仓库，其实也可以直接在github编译，但我不会（雾）</p>
+<p>然后就是node.js和hexo的云服部署。前者是服务器端的JavaScript运行环境，后者是博客搭建框架，可以很方便地搭建静态网页。但我对markdown这样的标记语言不是很熟悉，还需要学习</p>
+<h1 id="关于域名的选购"><a href="#关于域名的选购" class="headerlink" title="关于域名的选购"></a>关于域名的选购</h1><p>推荐后缀.top，很便宜，一年只要十块。域名不是必须，不影响博客的云端部署，可以通过ipv4地址或者github地址访问</p>
+<p>由于我已经购入了私人域名，需要对域名进行解析，绑定博客的github仓库地址（ipv4地址可以用cmd来ping仓库地址得到，与仓库地址本身共两条解析记录），然后就是漫长而痛苦的修改框架-保存资源-编译-出bug-读日志-改代码-编译-出新bug的无限循环。</p>
+<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1><p>对于完全不懂js的我来说，会用命令行已经谢天谢地了。后面可能会更新我对框架的优化，大概率是抄别人的作业，也可能直接发在博客里，更可能直接咕咕咕，这比玩机器人累多了（幸好我给机器人加了gpt，代码问题可以解决）</p>
+]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
       </tags>
   </entry>
   <entry>
