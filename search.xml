@@ -89,9 +89,9 @@
     <url>/2023/12/05/%E6%BC%AB%E7%A0%94/</url>
     <content><![CDATA[<p>准备更新一个系列，<strong>那些年我写过的漫研</strong>，主要是大学期间在动漫社投过的稿件，包括一些动画漫画的推荐杂谈，或者是一些动画电影的观看感受。</p>
 <hr>
-<h1 id="漫画"><a href="#漫画" class="headerlink" title="漫画"></a>漫画</h1><p>{<code>% post_link 2021-11-18-二点五次元的诱惑 2.5次元的诱惑 %</code>}</p>
+<h1 id="漫画"><a href="#漫画" class="headerlink" title="漫画"></a>漫画</h1><p><code>&#123;% post_link 2021-11-18-二点五次元的诱惑 2.5次元的诱惑 %&#125;</code></p>
 <hr>
-<h1 id="动画"><a href="#动画" class="headerlink" title="动画"></a>动画</h1><p>{<code>% post_link 2021-12-25-宿命回响 宿命回响 %</code>}</p>
+<h1 id="动画"><a href="#动画" class="headerlink" title="动画"></a>动画</h1><p><code>&#123;% post_link 2021-12-25-宿命回响 宿命回响 %&#125;</code></p>
 ]]></content>
       <categories>
         <category>漫研</category>
