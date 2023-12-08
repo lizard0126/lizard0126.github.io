@@ -1575,6 +1575,25 @@ pre code {
 .back-to-top.back-to-top-on {
   bottom: 30px;
 }
+@media screen and (min-width: 900px) {
+  .back-to-top {
+    right: 60px;
+    width: 70px;
+    height: 900px;
+    top: -900px;
+    bottom: unset;
+    transition: all 0.5s ease-in-out;
+    background: url("/images/scroll.png");
+    position: fixed;
+  }
+  .back-to-top > i {
+    display: none;
+  }
+  .back-to-top.back-to-top-on {
+    bottom: unset;
+    top: calc(100vh - 900px - 200px);
+  }
+}
 .reading-progress-bar {
   --progress: 0;
   background: #37c6c0;
